@@ -1,6 +1,10 @@
 .cards__item {
     text-align: center;
-    width: 200px;
-    padding: 60px 50px 0px;
-  
+    width: 240px;
+    padding: 60px 0px;
+    margin-right: 100px;
+  }
+
+  .cards__item:nth-of-type(3) {
+    margin: 0;
   }

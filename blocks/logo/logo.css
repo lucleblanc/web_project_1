@@ -1,14 +1,6 @@
-.logo_place_header {
-    position: absolute;
-    top: 30px;
-    z-index: 3;
-    width: 154px;
-    height: 30px;
-  }
+@import url(./_place/logo_place_footer.css);
+@import url(./_place/logo_place_header.css);
 
-.logo_place_footer {
-    width: 183px;
-    height: 35px;
-  }
+
 
   
